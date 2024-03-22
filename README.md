@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jayesh-netizien
 - 👀 I’m interested in ...Coding with various languages just training for that instead!.
-- 🌱 I’m currently learning ...python with Shaurya sinha my master for this program 
+- 🌱 I’m currently learning ...python as self learner, Web-development from Udemy course by Dr. Angela Yu and also Android Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
