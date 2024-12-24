@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @jayesh-netizien
-- 👀 I’m interested in ...Coding with various languages just training for that instead!.
-- 🌱 I’m currently learning ...python as self learner, Web-development from Udemy course by Dr. Angela Yu and also Android Development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a ECE student from IIIT Nagpur,
+I mainly like to make web-projects and try solving 
+problems daily.
+My interested languages and technologies include 
+Html, CSS, Javascript, DSA, C++, Python
+Also other frameworks.
 
 <!---
 jayesh-netizien/jayesh-netizien is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
